@@ -9,3 +9,7 @@ version 1.0
 
 
 HeroSword FightingGame
+
+致力于开源横版格斗游戏，一群热爱游戏的程序猿。
+
+群号：249252306
